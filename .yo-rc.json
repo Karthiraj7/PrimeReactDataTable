@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "prime-react",
+    "libraryId": "71d7ea7d-1eb7-4301-86a3-5c71b88826d3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "prime-react",
+    "solutionShortDescription": "prime-react description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
